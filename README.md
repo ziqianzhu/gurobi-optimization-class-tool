@@ -6,3 +6,4 @@ This tool serves to bridge the gap. It enable students to construct linear optim
 
 To get started, begin by opening the "Model_Inputs.xlsx" file and navigating to the "Explanations" sheet for guidance. Within the same file, you'll find the "Main" sheet including a furniture-production-plan example. Customize this sheet to match your specific model requirements. Then proceed to execute the Jupyter notebook, and get the results. 
 
+Credits to Prof. Steven Shechter for this idea and UBC MBAN students for comments and testing. Network-model version is coming soon. 
