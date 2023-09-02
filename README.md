@@ -1,7 +1,5 @@
 # Gurobi-Optimization-Class-Tool
-<style>body {text-align: justify}</style>
-
-
+<p align='justify'>
 Gurobi is a popular optimization package, primarily due to its remarkable speed and versatility in modeling a wide array of problems. However, a significant challenge arises from the fact that students lacking prior coding experience may struggle to grasp its intricacies within the confines of a short classroom timeframe. To address this concern, we developed this instructional tool.
 
 This tool serves to bridge the gap. It enables students to construct linear optimization models in Excel and promptly execute them within the notebook environment, yielding immediate access to the outcomes of their models.
@@ -11,3 +9,4 @@ To get started, begin by opening the "Model_Inputs.xlsx" file and navigating to 
 Credits to Prof. Steven Shechter for this idea and UBC MBAN students for comments and testing. If you are interested, check out the [Network-model version](https://github.com/ihenrywu/Gurobi-Tool-Network-Model) by Henry Wu. 
 
 For any suggestions or questions, please don't hesitate to contact me at ziqian.zhu@sauder.ubc.ca.
+</p>
