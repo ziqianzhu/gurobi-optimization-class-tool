@@ -1,4 +1,6 @@
 # Gurobi-Optimization-Class-Tool
+<style>body {text-align: justify}</style>
+
 
 Gurobi is a popular optimization package, primarily due to its remarkable speed and versatility in modeling a wide array of problems. However, a significant challenge arises from the fact that students lacking prior coding experience may struggle to grasp its intricacies within the confines of a short classroom timeframe. To address this concern, we developed this instructional tool.
 
