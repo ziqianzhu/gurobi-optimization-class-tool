@@ -4,7 +4,7 @@ Gurobi is a popular optimization package, primarily due to its remarkable speed 
 
 This tool serves to bridge the gap. It enables students to construct linear optimization models in Excel and promptly execute them within the notebook environment, yielding immediate access to the outcomes of their models.
 
-To get started, begin by opening the "Model_Inputs.xlsx" file and navigating to the "Explanations" sheet for guidance. Within the same file, you'll find the "Main" sheet including a furniture-production-plan example. Customize this sheet to match your specific model requirements. Then proceed to execute the Jupyter notebook, "Excel_to_Gurobi.ipynb", and get the results. The other notebook, "Excel_to_Gurobi_with_Sensitivity_Analysis.ipynb", extends the original notebook with sensitivity analysis as the name indicates. 
+To get started, begin by opening the "Model_Inputs.xlsx" file and navigating to the "Explanations" sheet for guidance. Within the same file, you'll find the "Main" sheet including a furniture-production-plan example. Customize this sheet to match your specific model requirements. Then proceed to execute the Jupyter notebook, "Excel_to_Gurobi.ipynb", and get the results. Note: Make sure you have Gurobi installed with a license. If you prefer not to acquire your own Gurobi license, you can utilize Google Colab, which comes with a free license.
 
 Credits to Prof. Steven Shechter for this idea and UBC MBAN students for comments and testing. Network-model version is coming soon. 
 
