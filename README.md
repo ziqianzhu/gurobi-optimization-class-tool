@@ -1,6 +1,6 @@
 # Gurobi-Optimization-Class-Tool
 
-Gurobi is attracting increasing attention for its educational applications, primarily due to its remarkable speed and versatility in modeling a wide array of problems, as well as its capacity to effectively interpret the obtained results. However, a significant challenge arises from the fact that students lacking prior coding experience may struggle to grasp its intricacies within the confines of a short classroom timeframe. To address this concern, we developed this instructional tool.
+Gurobi is a popular optimization package, primarily due to its remarkable speed and versatility in modeling a wide array of problems. However, a significant challenge arises from the fact that students lacking prior coding experience may struggle to grasp its intricacies within the confines of a short classroom timeframe. To address this concern, we developed this instructional tool.
 
 This tool serves to bridge the gap. It enables students to construct linear optimization models in Excel and promptly execute them within the notebook environment, yielding immediate access to the outcomes of their models.
 
